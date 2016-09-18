@@ -1,0 +1,16 @@
+{
+    "name": "sinevia/php-widgets",
+    "description": "PHP Widgets",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Sinevia Ltd",
+            "email": "info@sinevia.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Sinevia": "src"
+        }
+    }
+}
