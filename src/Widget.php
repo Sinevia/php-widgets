@@ -1,5 +1,5 @@
 <?php
-namespace Sinevia;
+namespace Sinevia\Widgets;
 
 class Widget{
     function display(){
