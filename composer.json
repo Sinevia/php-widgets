@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Sinevia\\": "src/"
+            "Sinevia\\Widgets\\": "src/"
         },
         "files": ["src/functions.php"]
     }
