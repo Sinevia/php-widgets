@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinevia\Widgets
+namespace Sinevia\Widgets;
 
 class Cycle2 {
   public $data = null;
